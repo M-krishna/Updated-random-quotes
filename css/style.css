@@ -1,0 +1,29 @@
+#heading{
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: Annie Use Your Telescope;
+}
+
+#title{
+    font-size: 2rem;
+    font-family: Bangers;
+}
+
+#get-btn{
+    font-family: Butcherman;
+}
+
+#tweet-btn{
+    font-family: Butcherman;
+}
+
+#quoteText{
+    font-family: Kavoon;
+    font-size: 1.5em;
+    font-weight: 50;
+}
+
+#quoteAuthor{
+    font-family: Ewert;
+    font-size: 2em;
+}
