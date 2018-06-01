@@ -62,6 +62,6 @@ $(document).ready(function(){
     });
 
     $("#tweet-btn").on('click', function(){
-        $("#tweet-btn").attr('href', 'https://twitter.com/intent/tweet?text=' + tweetText);
+        $("#tweet-btn").attr('href', 'https://twitter.com/intent/tweet?text=' + tweetText + '%20' + '--' + tweetAuthor);
     })
 });
